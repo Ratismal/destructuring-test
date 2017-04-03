@@ -1,14 +1,16 @@
 # A small destructing test
 
-idk why it does this pls send help
+Why does `require('./index')` return `{}`?
 
 ## Expected Output
 
 ```js
 Hello!
 {
-    D: "Hello!"
+    B: {},
+    C: "Hello!"
 }
+Hello!
 ```
 
 ## Actual Output
@@ -16,4 +18,5 @@ Hello!
 ```js
 undefined
 {}
+Hello!
 ```

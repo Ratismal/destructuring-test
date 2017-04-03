@@ -1,1 +1,0 @@
-const { C } = require('./C');
