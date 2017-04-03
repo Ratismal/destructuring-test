@@ -17,3 +17,5 @@ Hello!
 undefined
 {}
 ```
+
+![image](https://requires.discord.gold/d95212.png)
